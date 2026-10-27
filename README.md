@@ -1,8 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Gurleen-66/Gurleen-66/assests/hero.svg" alt="Gurleen Kaur — AI and software development portfolio banner" width="100%" />
-
+<img src="assets/hero.svg" alt="Gurleen Kaur — AI and software development portfolio banner" width="100%" />
 
 <a href="https://github.com/Gurleen-66">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&height=40&lines=AI+%26+ML+Graduate;Computer+Vision+Enthusiast;Frontend+%26+Full-Stack+Practitioner;Operations+%26+Team+Coordination" alt="Typing animation: AI and ML Graduate, Computer Vision Enthusiast, Frontend and Full-Stack Practitioner, Operations and Team Coordination" />
