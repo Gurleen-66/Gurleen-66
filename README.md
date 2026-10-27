@@ -34,7 +34,7 @@ Alongside my technical work, I've spent time in operations and team coordination
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>🎓 Education</b><br/><sub>B.Tech in AI & ML<br/>CGPA 8.0 · 2022–2026</sub></td>
+    <td align="center" width="25%"><b>🎓 Education</b><br/><sub>B.Tech in AI & ML<br/>CGPA 8.25 · 2022–2026</sub></td>
     <td align="center" width="25%"><b>🏢 Internship</b><br/><sub>C-DAC Mohali<br/>AI with Computer Vision</sub></td>
     <td align="center" width="25%"><b>🛠️ Projects</b><br/><sub>AI-powered apps<br/>Accessibility · IoT · CV</sub></td>
     <td align="center" width="25%"><b>🏆 Hackathon</b><br/><sub>2nd Place<br/>GNA Hackathon 2.0</sub></td>
