@@ -22,7 +22,7 @@
 
 ## ✦ About Me
 
-I'm an Artificial Intelligence & Machine Learning graduate (B.Tech, 2022–2026) who enjoys turning ideas into practical, usable software. My interests sit around **computer vision**, **accessible educational technology**, and **modern frontend development**, and I like building things that help real people.
+I'm an Artificial Intelligence & Machine Learning graduate (B.Tech, 2022–2026) who enjoys turning ideas into practical, usable software. My interests sit around **computer vision**, **artificial & intelligence**, and **modern frontend development**, and I like building things that help real people.
 
 Alongside my technical work, I've spent time in operations and team coordination: leading a small team, running day-to-day workflows, and communicating with clients. That mix helps me work well across both the technical and the human side of a project.
 
