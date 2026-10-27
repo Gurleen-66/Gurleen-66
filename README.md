@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Gurleen-66/Gurleen-66/main/assets/hero.svg" alt="Gurleen Kaur — AI and software development portfolio banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Gurleen-66/Gurleen-66/assests/hero.svg" alt="Gurleen Kaur — AI and software development portfolio banner" width="100%" />
 
 
 <a href="https://github.com/Gurleen-66">
